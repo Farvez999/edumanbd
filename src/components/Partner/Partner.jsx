@@ -12,7 +12,7 @@ const Partner = () => {
             style={{ width: "400vh", height: "50vh" }}
           />
           <div>
-            <h1 className="text-5xl font-bold">We Offer You</h1>
+            <h1 className="text-5xl font-bold">We Offer You a new thing</h1>
             <p className="py-6">
               A great partnership opportunity To build your career as <br /> a
               smart businessman with EDUMAN
