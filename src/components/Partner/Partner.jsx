@@ -6,13 +6,13 @@ const Partner = () => {
     <div className="partner">
       <div className="hero min-h-screen bg-base-200">
         <div className="hero-content flex-col lg:flex-row-reverse">
-          <img
+          {/* <img
             src="/img/js4.jpg"
             className="max-w-sm rounded-lg shadow-2xl"
             style={{ width: "400vh", height: "50vh" }}
-          />
+          /> */}
           <div>
-            <h1 className="text-5xl font-bold">We Offer You a new thing</h1>
+            <h1 className="text-5xl font-bold">We Offer You</h1>
             <p className="py-6">
               A great partnership opportunity To build your career as <br /> a
               smart businessman with EDUMAN
